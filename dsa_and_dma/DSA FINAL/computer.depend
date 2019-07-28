@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1511696732 source:c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\main.c
+	"home.c"
+	"laptop.c"
+	"hardware.c"
+	"software.c"
+	"customer.c"
+
+1524152507 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\home.c
+	"computer.h"
+	"online.c"
+
+1511696799 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\computer.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1511698061 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\online.c
+	"computer.h"
+
+1511695699 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\laptop.c
+	"computer.h"
+	"discount.c"
+
+1511696624 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\discount.c
+	"computer.h"
+
+1511525921 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\hardware.c
+	"computer.h"
+
+1511696685 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\software.c
+	"computer.h"
+
+1524147034 c:\users\kings\desktop\data structures\dsa oee project\our dsa final project\dsa final project\dsa final\customer.c
+	"computer.h"
+
+1511696734 source:i:\dsa final project\dsa final\main.c
+	"home.c"
+	"laptop.c"
+	"hardware.c"
+	"software.c"
+	"customer.c"
+
+1524152508 i:\dsa final project\dsa final\home.c
+	"computer.h"
+	"online.c"
+
+1511696800 i:\dsa final project\dsa final\computer.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1511698062 i:\dsa final project\dsa final\online.c
+	"computer.h"
+
+1511695700 i:\dsa final project\dsa final\laptop.c
+	"computer.h"
+	"discount.c"
+
+1524152672 i:\dsa final project\dsa final\discount.c
+	"computer.h"
+
+1511525922 i:\dsa final project\dsa final\hardware.c
+	"computer.h"
+
+1511696686 i:\dsa final project\dsa final\software.c
+	"computer.h"
+
+1524147036 i:\dsa final project\dsa final\customer.c
+	"computer.h"
+
+1511696734 source:c:\users\prashant\desktop\dsa final project\dsa final\main.c
+	"home.c"
+	"laptop.c"
+	"hardware.c"
+	"software.c"
+	"customer.c"
+
+1524286455 c:\users\prashant\desktop\dsa final project\dsa final\home.c
+	"computer.h"
+	"online.c"
+
+1511696800 c:\users\prashant\desktop\dsa final project\dsa final\computer.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1511698062 c:\users\prashant\desktop\dsa final project\dsa final\online.c
+	"computer.h"
+
+1511695700 c:\users\prashant\desktop\dsa final project\dsa final\laptop.c
+	"computer.h"
+	"discount.c"
+
+1524152672 c:\users\prashant\desktop\dsa final project\dsa final\discount.c
+	"computer.h"
+
+1511525922 c:\users\prashant\desktop\dsa final project\dsa final\hardware.c
+	"computer.h"
+
+1511696686 c:\users\prashant\desktop\dsa final project\dsa final\software.c
+	"computer.h"
+
+1524147036 c:\users\prashant\desktop\dsa final project\dsa final\customer.c
+	"computer.h"
+
